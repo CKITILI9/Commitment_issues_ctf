@@ -4,6 +4,15 @@
 ---
 
 
+
+#Challenge description
+- I accidentally wrote the flag down. Good thing I deleted it!
+- You download the challenge files here:
+- challenge.zip
+---
+
+
+
 #Environment
 - Host Machine: Windows 10 with Oracle VirtualBox
 - Guest: Ubuntu 20.04 LTS (CLI-based)
